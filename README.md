@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**seacrotdigital/seacrotdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Raphael  
+🎓 Management & Data Analytics Student  
+💻 Excel | Data Analysis | Graphics Design  
+📍 Nigeria  
 
-Here are some ideas to get you started:
+### What I’m working on
+- Learning GitHub & SQL
+- Building Excel dashboards
+- Improving data visualization skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Microsoft Excel
+- PowerPoint
+- Graphics Design
+- Basic Data Analysis
