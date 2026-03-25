@@ -6,7 +6,7 @@ I'm Raphael
 📍 Nigeria  
 
 ### What I’m working on
-- Learning GitHub & SQL
+- Learning Data Analysis
 - Building Excel dashboards
 - Improving data visualization skills
 
