@@ -6,7 +6,7 @@ I'm Raphael
 📍 Nigeria  
 
 ### What I’m working on
-- Learning Data Analysis
+- Learning Data Analytics
 - Building Excel dashboards
 - Improving data visualization skills
 
